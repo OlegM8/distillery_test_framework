@@ -1,5 +1,5 @@
 """
-This class containts some frequently-used constants
+This class contains some frequently-used constants
 """
 
 
